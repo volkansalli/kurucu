@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Eo5YxSTg1YNDVM/ZPpeBo/II034NOAIyM9FIQJCyyNwmm9dNPmy2jtg7VWdV3B+Fcb1NKTVRNbRFNf13coa8yg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\volkan\\OneDrive\\Belgeler\\pratikler\\kurucu\\kurucu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\volkan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

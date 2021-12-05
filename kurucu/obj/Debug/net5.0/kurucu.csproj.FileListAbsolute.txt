@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\kurucu.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\kurucu.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\kurucu.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\kurucu.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\kurucu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\ref\kurucu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\bin\Debug\net5.0\kurucu.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\ref\kurucu.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\kurucu\obj\Debug\net5.0\kurucu.genruntimeconfig.cache
